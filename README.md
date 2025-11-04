@@ -1,1 +1,1 @@
-# Student-Management-System-Using-MongoDB-and-MVC-Architecture
+# Student-Management-System-Using-MongoDB-and-MVC-Architecture<img width="1536" height="1024" alt="3a55336b-5cbf-4c93-b2cd-bbefede261e3" src="https://github.com/user-attachments/assets/5f5671fa-a5f7-4bd1-8052-23645079d52c" />
